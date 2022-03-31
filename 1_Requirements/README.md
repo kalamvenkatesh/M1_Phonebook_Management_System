@@ -27,8 +27,8 @@
 * Static - Before code execution - cppcheck
 * Dynamic - During execution - Valgrind on Linux Or Dr.Memory on Windows
 * CI/CD - Continuous Integrationa and Continuous Deployment
-* Github - Workflows
-* Build - windows and Linux
-* Unit testing
-* Analysis
-* Code Quality - Online Tools
+ * Github - Workflows
+  * Build - windows and Linux
+  * Unit testing
+  * Analysis
+  * Code Quality - Online Tools
