@@ -1,1 +1,1 @@
-
+In this mini project i used codeblocks to run the code. After run the code, the output comes with six options 1. Add New 2. List 3. Exit 4. Modify 5. Search 6. Delete. In this select any option to get the output. Add New: With this option we have to add the contact of user like Name, Father's Name, Phone Number, Email etc.. List: With this option we see the contact details of user. Modify: With this option we can modify the details of the user. Search: With this option we search the select person contact details. Delete: With this option we delete the contact details.
